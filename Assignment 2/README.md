@@ -83,11 +83,6 @@ We can conclude that Azure Stream Analytics is the easiest for simple real-time 
 
 
 ## **4. Use Case Analysis**
-Here is a **financial trading real-time analytics use case**, rewritten cleanly based on the information you provided, and adapted to your assignment’s format. It includes a clear scenario and a justified cloud provider recommendation.
-
----
-
-## **Use Case: Real-Time Financial Trading and Intraday Risk Management**
 ### Use Case: Real-Time Financial Trading and Intraday Risk Management
 **Scenario:**
 In modern capital markets, trading activity moves far too quickly for end-of-day risk assessment to remain effective. Market exposure can shift in milliseconds, as seen during crises like the Bear Stearns collapse in 2008. To remain competitive and financially secure, banks and financial institutions are shifting toward **intraday Value at Risk (VaR)** calculations that continuously update based on market conditions and live portfolio changes. This requires ingesting real-time market data streams, recalculating risk exposure instantly, and triggering automated responses to mitigate volatility.
